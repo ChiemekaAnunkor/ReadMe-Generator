@@ -21,7 +21,7 @@ node index.js
 
 ## Demo
 
-![Getting Started](https://drive.google.com/file/d/1iZOF9cOuaRrKHQQZV4NIaZHxHib-GdsN/view)
+![Demo](./assets/Untitled_%20Oct%2018%2C%202022%208_25%20PM.gif)
 
 ## User Story
 
@@ -64,3 +64,12 @@ Here are some guidelines to help you get started:
 - Refer to the [Fullstack Blog Video Submission Guide](https://coding-boot-camp.github.io/full-stack/computer-literacy/video-submission-guide) for additional guidance on creating a video.
 
 - Include any other screenshots you deem necessary to help someone who has never been introduced to your application understand the purpose and function of it. This is how you will communicate to potential employers or other developers in the future what you built and why, and to show how it works.
+
+## Links
+
+GitHub https://github.com/ChiemekaAnunkor/ReadMe-Generator
+
+## license
+
+![JavaScript Badge](https://img.shields.io/badge/Language-JavaScript-orange)
+![node Badge](https://img.shields.io/badge/Language-Nodejs-green)
